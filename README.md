@@ -21,11 +21,23 @@ This example builds on Example 1 by adding health, attacking, hit detection, sou
 
 To run the sketch locally, open `index.html` in Google Chrome using Live Server.
 
+Photo files must be present in `assets/images/` before running:
+
+- startBG.png
+- playBG.png
+- winBG.png
+
 Sound files must be present in `assets/sounds/` before running:
 
-- `punch_1.wav` through `punch_9.wav`
-- `win.wav`
-- `background.mp3`
+- hitSOUND1.mp3
+- hitSOUND2.mp3
+- startMUSIC.mp3
+- playMUSIC.mp3
+- winMUSIC.mp3
+
+Font file must be present in `assets/fonts/` before running:
+
+- Robot Crush.otf
 
 **Player 1 Controls:**
 
