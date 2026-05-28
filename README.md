@@ -2,8 +2,6 @@
 
 ## What This Example Demonstrates
 
-> **Note for students:** This section is included in example files only to help you study. Do not include it in your Side Quest submissions.
-
 This example builds on Example 1 by adding health, attacking, hit detection, sound, and game states to create a complete two-player fighting game.
 
 - **Game states** — the game is always in one of three states (`STATE_START`, `STATE_FIGHT`, `STATE_WIN`); each state controls what gets drawn and what responds to input; stored as constants to prevent typos
@@ -52,16 +50,29 @@ The console will show any errors in your sketch.
 
 ## Assets
 
-| File                                        | Source                                            |
-| ------------------------------------------- | ------------------------------------------------- |
-| `assets/sounds/punch_1.wav` – `punch_9.wav` | Punch SFX — OpenGameArt.org                       |
-| `assets/sounds/win.wav`                     | listener4me, Win Sound Effect — OpenGameArt.org   |
-| `assets/sounds/background.mp3`              | Matthew Pablo, Space Dimensions — OpenGameArt.org |
+| File | Source |
+| `assets/images/startBG.png` | By mintor94 [1] |
+| `assets/images/playBG.png` | By mintor94 [1] |
+| `assets/images/winBG.png` | By mintor94 [1] |
+| `assets/sounds/hitSOUND1.mp3` | By SoundReality [2] |
+| `assets/sounds/hitSOUND2.mp3` | By Universfield [3] |
+| `assets/sounds/startMUSIC.mp3` | By Mohamed_hassan [4] |
+| `assets/sounds/playMUSIC.mp3` | By u_98a917e4i7 [5] |
+| `assets/sounds/winMUSIC.mp3` | By DRAGON-STUDIO [6] |
+| `assets/fonts/Robot Crush.otf` | By Darrell Flood [7] |
 
 ## References
 
-listener4me. n.d. _Win Sound Effect_. OpenGameArt.org. Retrieved May 1, 2026, from https://opengameart.org/content/win-sound-effect
+[1] mintor94. n.d. High quality Portal 2 wall textures. GameBanana. https://gamebanana.com/mods/383184
 
-Pablo, Matthew. n.d. _Space Dimensions (Techno Version)_. OpenGameArt.org. Retrieved May 1, 2026, from https://opengameart.org/content/space-dimensions-techno-version
+[2] SoundReality. n.d. Hit Windy Thud. Pixabay. https://pixabay.com/sound-effects/film-special-effects-hit-windy-thud-399086/
 
-Punch SFX. n.d. OpenGameArt.org. Retrieved May 1, 2026, from https://opengameart.org/content/punch-sfx
+[3] Universfield. n.d. Cinematic Impact Hit. Pixabay. https://pixabay.com/sound-effects/film-special-effects-cinematic-impact-hit-352702/
+
+[4] Mohamed_hassan. n.d. Mysterious mission 1. Pixabay. https://pixabay.com/sound-effects/musical-mysterious-mission-1-481049/
+
+[5] u_98a917e4i7. n.d. Boss Fight Ahh Music. Pixabay. https://pixabay.com/sound-effects/musical-boss-fight-ahh-music-490611/
+
+[6] DRAGON-STUDIO. n.d. Correct. Pixabay. https://pixabay.com/sound-effects/technology-correct-472358/
+
+[7] Darrell Flood (Hawtpixel). n.d. Robot Crush. DaFont. https://www.dafont.com/robot-crush.font
