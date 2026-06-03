@@ -63,6 +63,7 @@ The console will show any errors in your sketch.
 ## Assets
 
 | File | Source |
+|------|--------|
 | `assets/images/startBG.png` | By mintor94 [1] |
 | `assets/images/playBG.png` | By mintor94 [1] |
 | `assets/images/winBG.png` | By mintor94 [1] |
