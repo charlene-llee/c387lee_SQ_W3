@@ -1,7 +1,5 @@
 # Week 3 Example 2: Full Fighting Game
 
-## What This Example Demonstrates
-
 This example builds on Example 1 by adding health, attacking, hit detection, sound, and game states to create a complete two-player fighting game.
 
 - **Game states** — the game is always in one of three states (`STATE_START`, `STATE_FIGHT`, `STATE_WIN`); each state controls what gets drawn and what responds to input; stored as constants to prevent typos
