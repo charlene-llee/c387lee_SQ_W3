@@ -1,7 +1,5 @@
 # Week 3 Example 2: Full Fighting Game
 
-This example builds on Example 1 by adding health, attacking, hit detection, sound, and game states to create a complete two-player fighting game.
-
 ## Setup and Interaction Instructions
 
 To run the sketch locally, open `index.html` in Google Chrome using Live Server.
